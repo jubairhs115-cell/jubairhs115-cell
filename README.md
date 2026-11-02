@@ -65,9 +65,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 </p>
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubairhs115-cell&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairhs115-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+ <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jubairhs115-cell&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jubairhs115-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 ⭐ Thanks for visiting my profile!
