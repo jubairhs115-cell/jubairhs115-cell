@@ -99,6 +99,16 @@ A fitness application designed to explore exercises and track workout informatio
 
 💻 [GitHub Repository](https://github.com/jubairhs115-cell/my-gym-project)
 
+
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jubairhs115-cell&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
+
 ⭐ Thanks for visiting my profile!
 
  
