@@ -70,4 +70,9 @@ I'm a Computer Science and Engineering student passionate about software develop
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jubairhs115-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jubairhs115-cell&theme=tokyonight&hide_border=true" />
+</p>
 ⭐ Thanks for visiting my profile!
