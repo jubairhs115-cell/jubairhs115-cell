@@ -54,7 +54,7 @@ I'm a Computer Science and Engineering student passionate about software develop
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act">
+ <a href="mailto:jubairhs115@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
