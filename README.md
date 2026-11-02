@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Jubair Hossain - Developer Banner" />
+</div>
+
 # Hi, I'm Jubair Hossain 👋
 
 ### Computer Science & Engineering Student | Aspiring Full-Stack Developer
