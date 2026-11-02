@@ -75,4 +75,29 @@ I'm a Computer Science and Engineering student passionate about software develop
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jubairhs115-cell&theme=tokyonight&hide_border=true" />
 </p>
+
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+
+A web-based library management system for managing books, borrowing, and returning operations.
+
+**Technologies:** Next.js, MongoDB
+
+🌐 [Live Demo](https://project-seven-pearl-59.vercel.app/)
+
+💻 [GitHub Repository](https://github.com/jubairhs115-cell/project)
+
+---
+
+### 💪 FitLog — Fitness Tracking Application
+
+A fitness application designed to explore exercises and track workout information.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS
+
+💻 [GitHub Repository](https://github.com/jubairhs115-cell/my-gym-project)
 ⭐ Thanks for visiting my profile!
+
+ 
