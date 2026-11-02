@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jubair Hossain 👋
 
-<!--
-**jubairhs115-cell/jubairhs115-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student passionate about software development, problem-solving, and exploring new technologies.
+
+## 🚀 About Me
+
+- 🎓 Studying Computer Science & Engineering
+- 💻 Exploring Full-Stack Web Development
+- 🌱 Currently learning Next.js, MongoDB and modern web technologies
+- 🧠 Interested in Artificial Intelligence, Machine Learning and Cybersecurity
+- ⚡ Practicing Data Structures and Algorithms
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jubairhs115-cell
+
+---
+
+⭐ Thanks for visiting my profile!
