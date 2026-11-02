@@ -98,6 +98,7 @@ A fitness application designed to explore exercises and track workout informatio
 **Technologies:** Next.js, TypeScript, Tailwind CSS
 
 💻 [GitHub Repository](https://github.com/jubairhs115-cell/my-gym-project)
+
 ⭐ Thanks for visiting my profile!
 
  
