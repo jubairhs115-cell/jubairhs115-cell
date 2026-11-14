@@ -3,40 +3,39 @@
 
 <table>
 <tr>
-<td width="27%" align="center">
-<img src="./profile.jpg" width="220" alt="Jubair Hossain"/>
+<td width="35%" align="center" valign="middle">
+<img src="./profile.jpg" width="300" alt="Jubair Hossain"/>
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center" valign="middle">
 
-# Hi, I'm Jubair Hossain 👋
+<h1>Hi, I'm Jubair Hossain 👋</h1>
 
-### Computer Science & Engineering Student
+<h3>Computer Science & Engineering Student</h3>
 
-### Aspiring Full-Stack Developer
+<h3>Aspiring Full-Stack Developer</h3>
 
-**Code • Learn • Build • Grow**
+<h2>Code • Learn • Build • Grow</h2>
 
 </td>
 
-<td width="33%" align="center">
+<td width="27%" align="center" valign="middle">
 
-## 🚀 Skills & Technologies
+<h3>🚀 Skills & Technologies</h3>
 
-**Languages**
-
+<strong>Programming Languages</strong><br/>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,php"/>
 
-**Frontend**
-
+<br/>
+<strong>Frontend Development</strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
-**Backend & Database**
-
+<br/>
+<strong>Backend & Database</strong><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
 
-**Tools & Platforms**
-
+<br/>
+<strong>Tools & Platforms</strong><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 
 </td>
@@ -47,9 +46,11 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
+<p>
 I'm a Computer Science and Engineering student passionate about software development, problem-solving, and exploring new technologies.
+</p>
 
 - 🎓 Studying Computer Science & Engineering
 - 💻 Exploring Full-Stack Web Development
@@ -59,21 +60,38 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-| Category | Technologies |
-|---|---|
-| Programming Languages | C++, JavaScript, TypeScript, PHP |
-| Frontend | HTML, CSS, React, Next.js, Tailwind CSS |
-| Backend | Node.js |
-| Database | MongoDB, MySQL |
-| Tools | Git, GitHub, VS Code, Vercel |
+<h3>👨‍💻 Programming Languages</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
+</p>
+
+<h3>🎨 Frontend Development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+<h3>⚙️ Backend & Database</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
+
+<h3>🔧 Tools & Platforms</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
+
 <a href="https://github.com/jubairhs115-cell">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -89,40 +107,52 @@ I'm a Computer Science and Engineering student passionate about software develop
 <a href="https://www.facebook.com/jubair.hossain.77920">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 📚 Library Management System
+<h3>📚 Library Management System</h3>
 
+<p>
 A web-based library management system for managing books, borrowing, and returning operations.
+</p>
 
 **Technologies:** Next.js, MongoDB
 
-🌐 [Live Demo](https://project-seven-pearl-59.vercel.app/)
+🌐 <a href="https://project-seven-pearl-59.vercel.app/">Live Demo</a>
 
-💻 [GitHub Repository](https://github.com/jubairhs115-cell/project)
+💻 <a href="https://github.com/jubairhs115-cell/project">GitHub Repository</a>
 
 ---
 
-### 💪 FitLog — Fitness Tracking Application
+<h3>💪 FitLog — Fitness Tracking Application</h3>
 
+<p>
 A fitness application designed to explore exercises and track workout information.
+</p>
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS
 
-💻 [GitHub Repository](https://github.com/jubairhs115-cell/my-gym-project)
+💻 <a href="https://github.com/jubairhs115-cell/my-gym-project">GitHub Repository</a>
 
 ---
 
-## 👀 Profile Visitors
+<h2>👀 Profile Visitors</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jubairhs115-cell&label=Profile%20Views&color=84cc16&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
 <p align="center">
+<i>Code • Learn • Build • Grow 🚀</i>
+</p>
+
 ⭐ Thanks for visiting my profile!
 </p>
