@@ -1,9 +1,17 @@
 
-# Hi, I'm Jubair Hossain 👋
+<p align="center">
+  <img src="./profile.jpg" width="220" alt="Jubair Hossain" />
+</p>
 
-### Computer Science & Engineering Student | Aspiring Full-Stack Developer
+<h1 align="center">Hi, I'm Jubair Hossain 👋</h1>
 
-**Code • Learn • Build • Grow 🚀**
+<h3 align="center">
+  Computer Science & Engineering Student | Aspiring Full-Stack Developer
+</h3>
+
+<p align="center">
+  <strong>Code • Learn • Build • Grow 🚀</strong>
+</p>
 
 ---
 
@@ -22,21 +30,25 @@ I'm a Computer Science and Engineering student passionate about software develop
 ## 🚀 Technical Skills
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
