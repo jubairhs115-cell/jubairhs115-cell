@@ -3,11 +3,11 @@
 
 <table>
 <tr>
-<td width="35%" align="center" valign="middle">
-<img src="./profile.jpg" width="300" alt="Jubair Hossain"/>
+<td width="32%" align="center" valign="middle">
+<img src="./profile.jpg" width="280" alt="Jubair Hossain"/>
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
 <h1>Hi, I'm Jubair Hossain 👋</h1>
 
@@ -15,28 +15,25 @@
 
 <h3>Aspiring Full-Stack Developer</h3>
 
-<h2>Code • Learn • Build • Grow</h2>
+<p><strong>Code • Learn • Build • Grow</strong></p>
 
 </td>
 
-<td width="27%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<h3>🚀 Skills & Technologies</h3>
+<h2>🚀 My Skills</h2>
 
-<strong>Programming Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,php"/>
+<p><strong>Programming Languages</strong></p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
 
-<br/>
-<strong>Frontend Development</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+<p><strong>Frontend Development</strong></p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
-<br/>
-<strong>Backend & Database</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
+<p><strong>Backend & Database</strong></p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 
-<br/>
-<strong>Tools & Platforms</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+<p><strong>Tools & Platforms</strong></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 </td>
 </tr>
@@ -57,34 +54,6 @@ I'm a Computer Science and Engineering student passionate about software develop
 - 🌱 Currently learning Next.js, MongoDB, and modern web technologies
 - 🧠 Interested in Artificial Intelligence, Machine Learning, and Cybersecurity
 - ⚡ Practicing Data Structures and Algorithms
-
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>👨‍💻 Programming Languages</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
-</p>
-
-<h3>🎨 Frontend Development</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-<h3>⚙️ Backend & Database</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-<h3>🔧 Tools & Platforms</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
 
 ---
 
@@ -120,7 +89,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 A web-based library management system for managing books, borrowing, and returning operations.
 </p>
 
-**Technologies:** Next.js, MongoDB
+<p><strong>Technologies:</strong> Next.js, MongoDB</p>
 
 🌐 <a href="https://project-seven-pearl-59.vercel.app/">Live Demo</a>
 
@@ -134,7 +103,7 @@ A web-based library management system for managing books, borrowing, and returni
 A fitness application designed to explore exercises and track workout information.
 </p>
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS
+<p><strong>Technologies:</strong> Next.js, TypeScript, Tailwind CSS</p>
 
 💻 <a href="https://github.com/jubairhs115-cell/my-gym-project">GitHub Repository</a>
 
@@ -152,7 +121,4 @@ A fitness application designed to explore exercises and track workout informatio
 
 <p align="center">
 <i>Code • Learn • Build • Grow 🚀</i>
-</p>
-
-⭐ Thanks for visiting my profile!
 </p>
