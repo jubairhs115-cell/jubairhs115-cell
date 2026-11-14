@@ -2,7 +2,7 @@
 <!-- ================= PROFILE BANNER ================= -->
 
 <p align="center">
-  <img src="./profile.jpg" width="100%" alt="Jubair Hossain Profile Banner"/>
+  <img src="./profile2.jpg" width="100%" alt="Jubair Hossain Profile Banner"/>
 </p>
 
 <!-- ================= INTRODUCTION ================= -->
