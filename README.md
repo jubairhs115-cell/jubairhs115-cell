@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="27%" align="center">
-<img src="./profile.png" width="220" alt="Jubair Hossain"/>
+<img src="./profile.jpg" width="220" alt="Jubair Hossain"/>
 </td>
 
 <td width="40%" align="center">
