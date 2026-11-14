@@ -1,53 +1,15 @@
 
-<div align="center">
+# Hi, I'm Jubair Hossain 👋
 
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-<img src="./profile.jpg" width="280" alt="Jubair Hossain"/>
-</td>
+### Computer Science & Engineering Student | Aspiring Full-Stack Developer
 
-<td width="36%" align="center" valign="middle">
-
-<h1>Hi, I'm Jubair Hossain 👋</h1>
-
-<h3>Computer Science & Engineering Student</h3>
-
-<h3>Aspiring Full-Stack Developer</h3>
-
-<p><strong>Code • Learn • Build • Grow</strong></p>
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<h2>🚀 My Skills</h2>
-
-<p><strong>Programming Languages</strong></p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
-
-<p><strong>Frontend Development</strong></p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-<p><strong>Backend & Database</strong></p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-
-<p><strong>Tools & Platforms</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</td>
-</tr>
-</table>
-
-</div>
+**Code • Learn • Build • Grow 🚀**
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
 I'm a Computer Science and Engineering student passionate about software development, problem-solving, and exploring new technologies.
-</p>
 
 - 🎓 Studying Computer Science & Engineering
 - 💻 Exploring Full-Stack Web Development
@@ -57,62 +19,74 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+## 🚀 Technical Skills
 
-<p align="left">
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
+</p>
 
-<a href="https://github.com/jubairhs115-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<a href="https://www.linkedin.com/in/jubair-hossain-6a4831448/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
 
-<a href="mailto:jubairhs115@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/jubair.hossain.77920">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<h3>📚 Library Management System</h3>
+## 🌐 Connect With Me
 
 <p>
+  <a href="https://github.com/jubairhs115-cell">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jubair-hossain-6a4831448/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jubairhs115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/jubair.hossain.77920">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+
 A web-based library management system for managing books, borrowing, and returning operations.
-</p>
 
-<p><strong>Technologies:</strong> Next.js, MongoDB</p>
+**Technologies:** Next.js, MongoDB
 
-🌐 <a href="https://project-seven-pearl-59.vercel.app/">Live Demo</a>
+- 🌐 [Live Demo](https://project-seven-pearl-59.vercel.app/)
+- 💻 [GitHub Repository](https://github.com/jubairhs115-cell/project)
 
-💻 <a href="https://github.com/jubairhs115-cell/project">GitHub Repository</a>
+### 💪 FitLog — Fitness Tracking Application
 
----
-
-<h3>💪 FitLog — Fitness Tracking Application</h3>
-
-<p>
 A fitness application designed to explore exercises and track workout information.
-</p>
 
-<p><strong>Technologies:</strong> Next.js, TypeScript, Tailwind CSS</p>
+**Technologies:** Next.js, TypeScript, Tailwind CSS
 
-💻 <a href="https://github.com/jubairhs115-cell/my-gym-project">GitHub Repository</a>
+- 💻 [GitHub Repository](https://github.com/jubairhs115-cell/my-gym-project)
 
 ---
 
-<h2>👀 Profile Visitors</h2>
+## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jubairhs115-cell&label=Profile%20Views&color=84cc16&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jubairhs115-cell&label=Profile%20Views&color=84cc16&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -120,5 +94,5 @@ A fitness application designed to explore exercises and track workout informatio
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
 <p align="center">
-<i>Code • Learn • Build • Grow 🚀</i>
+  <i>Code • Learn • Build • Grow 🚀</i>
 </p>
